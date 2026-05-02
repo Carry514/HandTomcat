@@ -119,8 +119,3 @@ HandTomcat/
 | reflections | 类路径注解扫描 | 04~05 |
 | guava | 基础工具库 | 05 |
 | javassist | 字节码操作 | 05 |
-
-## 参考
-
-- [Apache Tomcat 架构](https://tomcat.apache.org/tomcat-9.0-doc/architecture/)
-- 《How Tomcat Works》— Budi Kurniawan
